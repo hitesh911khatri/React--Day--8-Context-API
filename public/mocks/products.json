@@ -1,0 +1,55 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "images": "https://i.dummyjson.com/data/products/1/1.jpg",
+            "title": "iPhone 9",
+            "price": "₹ 54,999",
+            "brand": "Apple",
+            "category": "smartphones"
+           
+             
+
+        },
+        {
+            "id": 2,
+            "images": "https://i.dummyjson.com/data/products/2/1.jpg",
+            "title": "iPhone X",
+            "price": "₹ 57,999",
+            "brand": "Apple",
+            "category": "smartphones"
+          
+        
+        },
+        {
+            "id": 3,
+            "images":  "https://i.dummyjson.com/data/products/3/1.jpg",
+            "title": "Samsung Universe 9",
+            "price": "₹ 25,549",
+            "brand": "Samsung",
+            "category": "smartphones"
+           
+        },
+        {
+            "id": 4,
+            "images": "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
+            "title": "OPPOF19",
+            "price": "₹ 20,549",
+            "brand": "OPPO",
+            "category": "smartphones"
+           
+            
+        },
+        {
+            "id": 5,
+            "images": "https://i.dummyjson.com/data/products/5/1.jpg",
+            "title": "Huawei P30",
+            "price": "₹ 19,549",
+            "brand": "Huawei",
+            "category": "smartphones"
+         
+            
+          
+        }
+    ]
+}
